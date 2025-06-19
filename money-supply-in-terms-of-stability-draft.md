@@ -24,6 +24,20 @@ Without a currency that reflects the ecosystem service potential, we lack a reli
 
 This measurement issue creates the perception of profitability, which incentivizes further degradation. Ultimately, this destabilizes ecosystems and the economy itself.
 
+### Illustration
+
+Attempting to measure economic profit using monetary units that are decoupled from physical and ecological reality is like asking someone how fast they were driving and receiving the answer, "Ten apples fast." This response is meaningless because apples do not measure distance over time. Without any meaningful reference to the surrounding environment or actual impact, everything exists in a vacuum.
+
+This is how economic measurement behaves when it relies on currency units that have no link to real-world ecosystem parameters.
+
+Anchoring the money supply to concrete physical quantities – such as regenerative outcomes in ecological systems – makes monetary units relevant, measurable and accountable. Only then can they serve as meaningful instruments for expressing economic value within the context of planetary boundaries. We are embedded in and reliant upon the ecosystems that surround us.
+
+Without this connection, economic calculations remain meaningless — like reasoning within a sealed container, detached from the environment.
+
+Therefore, any attempt to determine "true prices" in an ecological context is bound to fail as long as the currency itself lacks a hard connection to the environment.
+
+Relative valuations that reflect ecological reality can only emerge through asset-backed ecological currencies.
+
 ### Target
 
 In order to preserve ecological and economic stability, it is urgent that the issuance of monetary units must be directly tied to verifiable **regenerative** outcomes of ecosystems.
@@ -45,7 +59,7 @@ In contrast to conventional systems that rely on debt or resource extraction, th
 
 Public blockchains provide an ideal technological framework for implementing and auditing such models, due to their transparency, immutability, and decentralized nature.
 
-While most economic models assume a homogeneous and closed monetary system, real-world applications must operate in heterogeneous and overlapping economic contexts. This highlights the need for new analytical frameworks capable of evaluating the performance and systemic impact of regenerative currencies within complex, multi-system environments.
+While most economic models assume a homogeneous and closed monetary system, real-world applications must operate in heterogeneous and overlapping economic contexts. This highlights the need for analytical frameworks capable of evaluating the performance and systemic impact of regenerative currencies within complex, multi-system environments.
 
 ### Use Case: The »terra plena Project«
 
@@ -78,8 +92,7 @@ To accurately represent both **individual utility** and **collective regenerativ
 
 
 
-This structure enables a clear distinction between functional value – what can be utilized by an individual – and regenerative value – what has been contributed to the collective benefit and ecosystem stability.
-It introduces a transparent accounting system for ecosystem-based monetary issuance.
+This structure enables a clear distinction between functional value – what can be utilized by an individual – and regenerative value – what has been contributed to the collective benefit and ecosystem stability. It introduces a transparent accounting system for ecosystem-based monetary issuance.
 
 In contrast, traditional accounting systems reflect only individual economic gains. The collective ecological improvements remain untracked and economically invisible.
 
@@ -95,7 +108,7 @@ Key benefits of this approach include:
 
 - **Incentivized behavior change**: Economic actors are rewarded not for resource depletion, but for measurable contributions to ecosystem health.
 
-- **Decoupling from extractive collateral**: Monetary value is no longer based on finite or destructive assets, but on regenerative potential – offering a dynamic and expanding foundation for economic growth, in contrast to the inherent limitations of the current monetary paradigm, which constrains long-term ecological regeneration and stable economic development.
+- **Decoupling from extractive collateral**: Monetary value is no longer based on finite or destructive assets, but on regenerative potential – offering a dynamic and expanding foundation for economic growth, which constrains long-term ecological regeneration and stable economic development, in contrast to the inherent limitations of the current monetary paradigm.
 
 - **Global scalability**: The model is adaptable to various ecosystems and service types, making it applicable across diverse environmental and socio-economic contexts.
 
