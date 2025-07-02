@@ -92,7 +92,7 @@ To accurately represent both **individual utility** and **collective regenerativ
 
 
 
-This structure enables a clear distinction between functional value – what can be utilized by an individual – and regenerative value – what has been contributed to the collective benefit and ecosystem stability. It introduces a transparent accounting system for ecosystem-based monetary issuance.
+This structure enables a clear distinction between individual value – what can be directly obtained through individual use of the soil – and regenerative value – what has been contributed to the collective benefit and ecosystem stability. It introduces a transparent accounting system for ecosystem-based monetary issuance, thereby making regenerative contributions economically visible and individually accountable as tradable units and as required functional tokens with inherent value for redemption and other utility purposes.
 
 In contrast, traditional accounting systems reflect only individual economic gains. The collective ecological improvements remain untracked and economically invisible.
 
