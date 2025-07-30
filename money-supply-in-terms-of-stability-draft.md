@@ -34,9 +34,7 @@ Anchoring the money supply to concrete physical quantities – such as regenerat
 
 Without this connection, economic calculations remain meaningless — like reasoning within a sealed container, detached from the environment.
 
-Therefore, any attempt to determine "true prices" in an ecological context is bound to fail as long as the currency itself lacks a hard connection to the environment.
-
-Relative valuations that reflect ecological reality can only emerge through asset-backed ecological currencies.
+Therefore, any attempt to determine "true prices" is merely an attempt to solve a systemic problem that wouldn't exist if currencies were hard-connected to the environment.
 
 ### Target
 
@@ -82,13 +80,13 @@ To accurately represent both **individual utility** and **collective regenerativ
 
 ![Tokenization Model](figures/tokenization.png)
 
-*Figure: Tokenization of Biocyclic Humus Soil (terra plena project)*
+*Figure 1: Tokenization of Biocyclic Humus Soil (terra plena project)*
 
 
 
 ![Token Lifetime](figures/token-lifetime.png)
 
-*Figure: Token Lifecycle – From Issuance to Ecological Accounting*
+*Figure 2: Token Lifecycle – From Issuance to Ecological Accounting*
 
 
 
